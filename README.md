@@ -1,6 +1,6 @@
     # Proyecto de Ventas de Ollas Essen
 
-Bienvenido al repositorio de mi proyecto de ventas de ollas Essen desarrollado en React con Vite. Este proyecto tiene como objetivo ofrecer una plataforma intuitiva y atractiva para la compra de ollas Essen, utilizando tecnologías modernas de desarrollo web.
+Bienvenido al repositorio de mi proyecto de ventas de ollas Essen desarrollado en React con Vite. Este proyecto tiene como objetivo ofrecer una plataforma intuitiva y atractiva para la compra de ollas Essen, utilizando tecnologías modernas de desarrollo web
 
 ## Capturas de Pantalla
 
