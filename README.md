@@ -6,11 +6,11 @@ Bienvenido al repositorio de mi proyecto de ventas de ollas Essen desarrollado e
 
 ## Captura de Pantalla 1
 
-<img src="https://i.ibb.co/XSLjQyF/img1.png" alt="captura 1" style= "width:600px">
+<img src="https://i.ibb.co/n3DsH6K/Sin-t-tulo2.png" alt="captura 1" style= "width:600px">
 
 ## Captura de Pantalla 2
 
-<img src="https://i.ibb.co/6DnDfGR/img2.png" alt="captura 2" style= "width:600px">
+<img src="https://i.postimg.cc/mDfQCZy6/Sin-t-tulo.png" alt="captura 2" style= "width:600px">
 
 ## Tecnologías Utilizadas 
 
